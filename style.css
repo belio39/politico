@@ -113,3 +113,8 @@ textarea {
   width: 60%;
   margin: 0 0 20% 20%;
 }
+
+.fileupload {
+  padding: 20px;
+  margin-bottom: 30px;
+}
